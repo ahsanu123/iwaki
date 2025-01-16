@@ -79,6 +79,7 @@ class Server
 
 ## 🌳 Logs
 - create initial system design, 23 november 2024 at ⏰ 14:26
+- decided to use [embassy rust](https://github.com/embassy-rs/embassy) to do firmware, 16 januari 2025 at ⏰ 18:47 
 
 ## 🎈 Reference 
 ![image](https://github.com/user-attachments/assets/c64e82f2-2251-4dd0-a8bc-d3aaa5ec4479)

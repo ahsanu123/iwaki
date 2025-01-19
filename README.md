@@ -85,3 +85,5 @@ class Server
 ![image](https://github.com/user-attachments/assets/c64e82f2-2251-4dd0-a8bc-d3aaa5ec4479)
 - [A Guide to Recirculation Aquaculture](https://openknowledge.fao.org/server/api/core/bitstreams/a0297773-095a-4ae7-9a89-5a3bfb48abc7/content)
 - [a freecad manual](https://www.freecad.org/manual/a-freecad-manual.pdf)
+
+<sub>long project with hope will finish. made with ♥️ by ah...</sub>

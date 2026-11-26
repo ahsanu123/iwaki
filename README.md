@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/1572b4bb-c883-47e8-9f9a-d7caedfd6c3a?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 <p>
   <a href="">
     <img alt="npm version" src="https://badgen.net/github/commits/ahsanu123/iwaki/">
